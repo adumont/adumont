@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 Check my projects here at https://adumont.github.io/projects
+
 <!--
 **adumont/adumont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
