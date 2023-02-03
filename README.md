@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👀 Check my projects here at 🔗 https://adumont.github.io/projects.
+👀 Check my projects here at 🔗 https://adumont.github.io/.
 
 <!--
 **adumont/adumont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
